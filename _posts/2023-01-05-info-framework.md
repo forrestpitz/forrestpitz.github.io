@@ -2,10 +2,17 @@
 layout: page
 title: The Information Framework
 date: 2023-01-05
-categories: [The Information Framework]
+categories: [Introduction]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
+
+```mermaid
+graph LR;
+  A(Intro)-->B(The Information Framework)
+
+  click A "{% post_url 2023-01-05-capture %}"
+```
 
 While the goal of this site is to focus on action, we will start with some underlying theory that will help contextualize the goals behind the systems I will suggest you use. One of the hallmarks of a professional is the ability to process the information coming to them and extract what is useful and discard the rest.
 Every day you come across information from hundreds of sources. Social media, books, in person conversations, videos and more provide ample inputs to provide you key insights.
@@ -16,7 +23,14 @@ The framework is broken into four steps:
 
 ```mermaid
 graph LR
-    Capture --> Process --> Relate --> Create
+    A(Capture) --> B(Process)
+    B --> C(Relate)
+    C --> D(Create)
+
+    click A "{% post_url 2023-01-05-capture %}"
+    click B "{% post_url 2023-01-05-process %}"
+    click C "{% post_url 2023-01-05-relate %}"
+    click D "{% post_url 2023-01-05-create %}"
 ```
  
 First, we __Capture__ ideas. We will cover how to gather information from various sources. Concrete implementations of this that we will cover are how to read a book with an eye for capture and how to take notes in meetings and at conferences.
@@ -27,4 +41,4 @@ Once we have produced atomic concept-oriented notes on a topic we can __Relate__
 
 The interrelated information allows us to quickly recall ideas in new contexts and to __Create__ new things using the insights and writing we have already done. You will be able to quickly produce polished outputs from the effort you have taken to internalize and understand the concepts in the first place rather than always starting from a blank page.
 
-|[Previous]({% post_url 2023-01-05-intro %})|[Next]({% post_url 2023-01-05-capture %})|
+|[Previous]()|[Next]({% post_url 2023-01-05-capture %})|

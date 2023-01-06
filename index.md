@@ -1,27 +1,25 @@
 ---
 layout: page
-title: Introduction
+title: Intellectual Craftsmanship
 date: 2023-01-05
-categories: [Introduction]
-tags: []     # TAG names should always be lowercase
-pin: true
+order: 1
+icon: fas fa-info-circle
 mermaid: true
 ---
 
-This site is dedicated to giving you actionable recommondations for ways to succeed as a knowlege worker.
+Welcome! This site is dedicated to giving you actionable recommondations for ways to succeed as a knowlege worker. The core of the site is a writing project I've titled 'Intellectual Craftsmanship'.
 
-The core of the site is a writing project I've titled 'Intellectual Craftsmanship'.
+The modern workforce is increasingly focused on 'knowlege work' (a wonderful term coined by Peter Drucker.) The dicipline is in many ways a fairly new one. Technological innovation has rapidly increased the pace and scale that any one person is expected to handle but the tools and techniques taught to people starting out their career have not kept pace. I use the world 'craftsmanship' to indicate how I think about the process. A good craftsmand has built up a set of valuable tools and techniques for creating something from nothing. Similarly the knowlege worker is asked to take their core dicipline (whether that be engineering, finance, programming, etc) and turn that raw skill into something useful. It's this last step that I see lacking the most. Higher education will teach you the raw skill but it does not focus on the practical techniques that let you leverage that skill effectivly.
+
+I want to help you build your toolkit and teach you the concrete techiniques that will help you get distraction out of the way and apply your core dicipline to create something great.
 
 ## Why I wrote this
-
 Repeatedly I have seen people new in their careers join the corporate world and struggle to get a foothold. Too often this happens because no one is providing concrete and actionable tools to help people succeed. Most people are left to sort out the right and wrong ways of doing things on their own, relying only on sparse feedback to adjust how they approach problems.
 
 While the skills learned in an academic setting do translate there are major differences especially when transitioning from mostly individual work to working with a team.
 The major reason people are not given more help by their more experienced coworkers is that people worry that if they give advice, it will not work in every scenario. You will find that to be the case in this book as well. My goal in writing this book is to provide an answer not the answer. Once you have learned and internalized these rules you can build on them and hone them to fit your personal style of work and the circumstances you find yourself in but in the meantime, you will have concrete action to take.
 
-The guidence consists of three main areas.
-
-We will focus first on personal productivity. I'll outline a set of tools for dealing with information. One of the main hallmarks of a professional is to be able to deal with large volumes of incoming information and deftly turn it into the right action. We will talk about the theoretical parts of a good information management process and then go deep on specific implementations to help you deal with the massive amount of data, tasks, and information you come across every day in your corporate life.
+I have broken the guidance into three major catagories. We will focus first on personal productivity. I will outline a set of tools for dealing with information. One of the main hallmarks of a professional is to be able to deal with large volumes of incoming information and deftly turn it into the right action. We will talk about the theoretical parts of a good information management process and then go deep on specific implementations to help you deal with the massive amount of data, tasks, and information you come across every day in your corporate life.
 
 After breaking down the core systems of personal productivity we will turn our attention to some core behaviors I believe to be essential to being a good and ethical professional. This guidance is designed to multiply the impact you can have as an individual and make your work life more enjoyable.
 
@@ -34,7 +32,7 @@ This site is designed around a tree strucuture (something I strongly recommend w
 
 Each page also provides links to the previous and next page (in a depth first order.)
 
-Here is the full page tree. Each page gives you the path from this introduction to that leaf. The charts are all linked to allow you to quickly navigate from this introduction to whatever topic you are interested in (although generally I recommend at least reading the pages that come before reaching a given topic in the tree to help you contextulize the content.)
+Here is the full page tree. Each page gives you the path from this introduction to that leaf. The charts are all linked to allow you to quickly navigate from this introduction to whatever topic you are interested in although generally I recommend at least reading the pages that come before reaching a given topic in the tree to help you contextulize the content.
 
 ```mermaid
 graph LR; 
@@ -65,6 +63,18 @@ graph LR;
   click G "{% post_url 2023-01-05-email %}"
   click H "{% post_url 2023-01-05-notetaking %}"
   click I "{% post_url 2023-01-05-process %}"
+  click J "{% post_url 2023-01-05-timesystems %}"
+  click K "{% post_url 2023-01-05-tasksystems %}"
+  click L "{% post_url 2023-01-05-referencesystems %}"
+  click M "{% post_url 2023-01-05-relate %}"
+  click N "{% post_url 2023-01-05-create %}"
+  click O "{% post_url 2023-01-05-communicationstyles %}"
+  click P "{% post_url 2023-01-05-difficultconversations %}"
+  click Q "{% post_url 2023-01-05-writtencommunication %}"
+  click R "{% post_url 2023-01-05-meetings %}"
+  click S "{% post_url 2023-01-05-presentations %}"
+  click T "{% post_url 2023-01-05-externalteams %}"
+  click U "{% post_url 2023-01-05-relationships %}"
 
 ```
 
