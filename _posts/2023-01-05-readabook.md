@@ -51,3 +51,5 @@ Highlight passages that stand out to you. I recommend using two colors, one to r
 
 ## When to Stop Reading
 In the book world the term DNF (Did Not Finish) is used to denote a time when you did not complete a book. In school, you often learn to read to the end of a book even when it is no longer providing value. You need to re-train yourself to be ok with a DNF. You are not being graded on completion and it is not worth applying the above rigor to squeeze water out of a stone. When you reach a point weather during your initial survey or once activly reading that a book no longer is providing you value the best thing you can do is put it down and move on to another.
+
+|[Previous]({% post_url 2023-01-05-capture %})|[Next]({% post_url 2023-01-05-email %})|

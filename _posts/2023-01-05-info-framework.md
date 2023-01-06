@@ -26,3 +26,5 @@ When we __Process__ information, we extract the ideas from their context to expa
 Once we have produced atomic concept-oriented notes on a topic we can __Relate__ the ideas together to find insight and cement our understanding of the ideas.
 
 The interrelated information allows us to quickly recall ideas in new contexts and to __Create__ new things using the insights and writing we have already done. You will be able to quickly produce polished outputs from the effort you have taken to internalize and understand the concepts in the first place rather than always starting from a blank page.
+
+|[Previous]({% post_url 2023-01-05-intro %})|[Next]({% post_url 2023-01-05-capture %})|

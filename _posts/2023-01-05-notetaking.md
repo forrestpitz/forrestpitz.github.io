@@ -51,3 +51,5 @@ Examples:
 
 ## Use diagrams
 Diagrams allow you to rapidly express complex ideas. You can quickly express the relationships between ideas and capture more nuance using pictures than you can with text. One of the main benefits of handwriting your notes is how quickly you can capture ideas with drawings, arrows, and symbols.
+
+|[Previous]({% post_url 2023-01-05-email %})|[Next]({% post_url 2023-01-05-process %})|
