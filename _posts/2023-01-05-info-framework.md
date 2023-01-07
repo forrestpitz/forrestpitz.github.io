@@ -12,7 +12,7 @@ graph LR;
   A(Intro)-->B(The Information Framework)
 
   click A "{% post_url 2023-01-05-intro %}"
-  click A "{% post_url 2023-01-05-info-framework %}"
+  click B "{% post_url 2023-01-05-info-framework %}"
 ```
 
 While the goal of this site is to focus on action, we will start with some underlying theory that will help contextualize the goals behind the systems I will suggest you use. One of the hallmarks of a professional is the ability to process the information coming to them and extract what is useful and discard the rest.
