@@ -7,13 +7,17 @@ tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
 
+<center><h3>Navigation</h3></center>
+<hr/>
 ```mermaid
 graph LR;
-  A(Intro)-->B(The Information Framework)
+  A(Intellectual Craftsmansh)-->B(The Information Framework)
+
+  style B stroke-width:4px
 
   click A "{% post_url 2023-01-05-intro %}"
-  click B "{% post_url 2023-01-05-info-framework %}"
 ```
+<hr/>
 
 While the goal of this site is to focus on action, we will start with some underlying theory that will help contextualize the goals behind the systems I will suggest you use. One of the hallmarks of a professional is the ability to process the information coming to them and extract what is useful and discard the rest.
 Every day you come across information from hundreds of sources. Social media, books, in person conversations, videos and more provide ample inputs to provide you key insights.
