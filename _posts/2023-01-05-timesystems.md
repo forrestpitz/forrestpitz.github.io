@@ -5,6 +5,20 @@ date: 2023-01-05
 categories: [The Information Framework, Process]
 tags: []     # TAG names should always be lowercase
 ---
+<center><h3>Navigation</h3></center>
+<hr/>
+```mermaid
+graph LR;
+  A(Intellectual Craftsmanship)-->B(The Information Framework)-->C(Process)-->D(Time Systems)
+
+  style D stroke-width:4px
+
+  click A "{% post_url 2023-01-05-intro %}"
+  click B "{% post_url 2023-01-05-info-framework %}"
+  click C "{% post_url 2023-01-05-process %}"
+```
+<hr/>
+
 Time based reminders come in two forms: Specific time-based events and Recurrences. When dealing with events at a specific time/place your calendar is the best place to track the event.
 Recurrences are those tasks that do not have a tight timeline, but you do want regular reminders for. For instance, imagine you wanted to be reminded once a quarter to update your resume. I personally use my task system to manage these recurrences because it is flexible enough to handle more complex scenarios but there are lots of options like reminder apps for your phone that can serve similar needs.
 

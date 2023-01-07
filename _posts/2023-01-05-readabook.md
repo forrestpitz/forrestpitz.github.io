@@ -6,7 +6,19 @@ categories: [The Information Framework, Capture]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
+<center><h3>Navigation</h3></center>
+<hr/>
+```mermaid
+graph LR;
+  A(Intellectual Craftsmanship)-->B(The Information Framework)-->C(Capture)-->D(How to read a book)
 
+  style D stroke-width:4px
+
+  click A "{% post_url 2023-01-05-intro %}"
+  click B "{% post_url 2023-01-05-info-framework %}"
+  click C "{% post_url 2023-01-05-capture %}"
+```
+<hr/>
 Books are the single most valuable places to source big ideas. The longer form allows more depth and lets the author present more interesting and complex arguments that would be difficult if not impossible in most other forms. In this section we will cover an approach for capturing information from books (although the approach should be applicable to other written content like articles as well). We will focus on capturing key concepts and ensuring a deep understanding of the text.
 
 We will cover:

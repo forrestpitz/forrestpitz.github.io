@@ -11,7 +11,7 @@ mermaid: true
 <hr/>
 ```mermaid
 graph LR;
-  A(Intellectual Craftsmansh)-->B(Communication)-->C(Difficult Conversations)
+  A(Intellectual Craftsmanship)-->B(Communication)-->C(Difficult Conversations)
 
   style C stroke-width:4px
 
