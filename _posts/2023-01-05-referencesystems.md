@@ -6,7 +6,6 @@ categories: [The Information Framework, Process]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-
 <center><h3>Navigation</h3></center>
 <hr/>
 ```mermaid

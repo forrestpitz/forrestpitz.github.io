@@ -4,6 +4,7 @@ title: Time Systems
 date: 2023-01-05
 categories: [The Information Framework, Process]
 tags: []     # TAG names should always be lowercase
+mermaid: true
 ---
 <center><h3>Navigation</h3></center>
 <hr/>
