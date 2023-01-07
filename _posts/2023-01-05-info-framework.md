@@ -6,19 +6,6 @@ categories: [Introduction]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-
-<center><h3>Navigation</h3></center>
-<hr/>
-```mermaid
-graph LR;
-  A(Intellectual Craftsmanship)-->B(The Information Framework)
-
-  style B stroke-width:4px
-
-  click A "{% post_url 2023-01-05-intro %}"
-```
-<hr/>
-
 While the goal of this site is to focus on action, we will start with some underlying theory that will help contextualize the goals behind the systems I will suggest you use. One of the hallmarks of a professional is the ability to process the information coming to them and extract what is useful and discard the rest.
 Every day you come across information from hundreds of sources. Social media, books, in person conversations, videos and more provide ample inputs to provide you key insights.
 That valuable information often comes not as a simple idea but intermingled within a larger context. It can be extremely difficult to identify what is going to be useful in the future and even harder to keep track of those ideas in a way that you can revisit them when they are relevant.
@@ -46,4 +33,25 @@ Once we have produced atomic concept-oriented notes on a topic we can __Relate__
 
 The interrelated information allows us to quickly recall ideas in new contexts and to __Create__ new things using the insights and writing we have already done. You will be able to quickly produce polished outputs from the effort you have taken to internalize and understand the concepts in the first place rather than always starting from a blank page.
 
-|[Previous]()|[Next]({% post_url 2023-01-05-capture %})|
+<center><h3>Navigation</h3></center>
+<hr/>
+```mermaid
+graph LR;
+  A(Intellectual Craftsmanship)-->B(The Information Framework)
+  B-->C(Capture)
+  B-->D(Process)
+  B-->E(Relate)
+  B-->F(Create)
+  A-->G(Communication)
+  A-->H(Professional Behavior)
+
+  style B stroke-width:4px
+
+  click A "{% post_url 2023-01-05-intro %}"
+  click C "{% post_url 2023-01-05-capture %}"
+  click D "{% post_url 2023-01-05-process %}"
+  click E "{% post_url 2023-01-05-relate %}"
+  click F "{% post_url 2023-01-05-create %}"
+  click G "{% post_url 2023-01-05-communication %}"
+  click H "{% post_url 2023-01-05-professionalbehavior %}"
+```

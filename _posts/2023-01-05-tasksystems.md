@@ -6,19 +6,6 @@ categories: [The Information Framework, Process]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-<center><h3>Navigation</h3></center>
-<hr/>
-```mermaid
-graph LR;
-  A(Intellectual Craftsmanship)-->B(The Information Framework)-->C(Process)-->D(Task Systems)
-
-  style D stroke-width:4px
-
-  click A "{% post_url 2023-01-05-intro %}"
-  click B "{% post_url 2023-01-05-info-framework %}"
-  click C "{% post_url 2023-01-05-process %}"
-```
-<hr/>
 I will start by saying I am not a believer in to-do lists in their traditional form. To-do lists too often become a list of aspirations and goals rather than a set of actions to be taken. By leaving the ‘tasks’ too large you can quickly become overwhelmed and the path forward with a given task can become unclear.
 
 ## Get Granular
@@ -48,6 +35,26 @@ You will often find other people come to you with things that are urgent but are
 | I<br/>M<br/>P<br/>O<br/>R<br/>T<br/>A<br/>N<br/>T |☑️ Do It <br/> Tasks with tight deadlines that have<br/> consequences for not completing <br/> <br/> <br/> Example:<br/> - Submitting a grant proposal before it's due | 📅Schedule It <br/> Tasks that are valuable but less time <br/> constrained. These tasks are easy to <br/> procrastinate so schedule time for them <br/><br/> Example:<br/> - Updating your Resume|
 | N<br/>O<br/>T<br/><br/>I<br/>M<br/>P<br/>O<br/>R<br/>T<br/>A<br/>N<br/>T |❔Question It <br/>Here be dragons. Approach these tasks with caution. <br/> If the urgency cannot be reduced, then look for <br/> opportunities to delegate the work. <br/><br/>Example:<br/> - Responding to emails | 🗑️Drop It <br/>These tasks only serve to distract. Take the time you <br/> would have dedicated to them and put it towards <br/> a task that needs doing.<br/><br/>Example:<br/>- An email not addressed to you that <br/>you don't have a ready answer for|
 
+<center><h3>Navigation</h3></center>
+<hr/>
+```mermaid
+graph LR;
+  A(Intellectual Craftsmanship)-->B(The Information Framework)
+  B-->C(Capture)
+  B-->G(Process)
+  G-->D(Time Systems)
+  G-->E(Task Systems)
+  G-->F(Reference Systems)
+  B-->H(Relate)
+  B-->I(Create)
 
+  style E stroke-width:4px
 
-|[Previous]({% post_url 2023-01-05-timesystems %})|[Next]({% post_url 2023-01-05-referencesystems %})|
+  click A "{% post_url 2023-01-05-intro %}"
+  click B "{% post_url 2023-01-05-info-framework %}"
+  click C "{% post_url 2023-01-05-capture %}"
+  click D "{% post_url 2023-01-05-timesystems %}"
+  click F "{% post_url 2023-01-05-referencesystems %}"
+  click H "{% post_url 2023-01-05-relate %}"
+  click I "{% post_url 2023-01-05-create %}"
+```

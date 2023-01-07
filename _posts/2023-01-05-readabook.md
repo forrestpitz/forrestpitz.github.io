@@ -6,19 +6,6 @@ categories: [The Information Framework, Capture]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-<center><h3>Navigation</h3></center>
-<hr/>
-```mermaid
-graph LR;
-  A(Intellectual Craftsmanship)-->B(The Information Framework)-->C(Capture)-->D(How to read a book)
-
-  style D stroke-width:4px
-
-  click A "{% post_url 2023-01-05-intro %}"
-  click B "{% post_url 2023-01-05-info-framework %}"
-  click C "{% post_url 2023-01-05-capture %}"
-```
-<hr/>
 Books are the single most valuable places to source big ideas. The longer form allows more depth and lets the author present more interesting and complex arguments that would be difficult if not impossible in most other forms. In this section we will cover an approach for capturing information from books (although the approach should be applicable to other written content like articles as well). We will focus on capturing key concepts and ensuring a deep understanding of the text.
 
 We will cover:
@@ -64,4 +51,21 @@ Highlight passages that stand out to you. I recommend using two colors, one to r
 ## When to Stop Reading
 In the book world the term DNF (Did Not Finish) is used to denote a time when you did not complete a book. In school, you often learn to read to the end of a book even when it is no longer providing value. You need to re-train yourself to be ok with a DNF. You are not being graded on completion and it is not worth applying the above rigor to squeeze water out of a stone. When you reach a point weather during your initial survey or once activly reading that a book no longer is providing you value the best thing you can do is put it down and move on to another.
 
-|[Previous]({% post_url 2023-01-05-capture %})|[Next]({% post_url 2023-01-05-email %})|
+<center><h3>Navigation</h3></center>
+<hr/>
+```mermaid
+graph TD;
+  A(Intellectual Craftsmanship)-->B(The Information Framework)
+  B-->C(Capture)
+  C-->D(How to read a book)
+  A-->E(Processing Email Effectivly)
+  A-->F(Taking Notes)
+
+  style D stroke-width:4px
+
+  click A "{% post_url 2023-01-05-intro %}"
+  click B "{% post_url 2023-01-05-info-framework %}"
+  click C "{% post_url 2023-01-05-capture %}"
+  click E "{% post_url 2023-01-05-email %}"
+  click F "{% post_url 2023-01-05-notetaking %}"
+```

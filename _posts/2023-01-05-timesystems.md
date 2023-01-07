@@ -6,20 +6,6 @@ categories: [The Information Framework, Process]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-<center><h3>Navigation</h3></center>
-<hr/>
-```mermaid
-graph LR;
-  A(Intellectual Craftsmanship)-->B(The Information Framework)-->C(Process)-->D(Time Systems)
-
-  style D stroke-width:4px
-
-  click A "{% post_url 2023-01-05-intro %}"
-  click B "{% post_url 2023-01-05-info-framework %}"
-  click C "{% post_url 2023-01-05-process %}"
-```
-<hr/>
-
 Time based reminders come in two forms: Specific time-based events and Recurrences. When dealing with events at a specific time/place your calendar is the best place to track the event.
 Recurrences are those tasks that do not have a tight timeline, but you do want regular reminders for. For instance, imagine you wanted to be reminded once a quarter to update your resume. I personally use my task system to manage these recurrences because it is flexible enough to handle more complex scenarios but there are lots of options like reminder apps for your phone that can serve similar needs.
 
@@ -48,3 +34,27 @@ The next kind of priority I recommend scheduling is time for your â€˜Big Rocks.â
 The last explicit time block I recommend scheduling is time to connect with people in your network. Regularly connecting with your professional network strengthens the relationships and ensures that if you ever need help you will have the resources you need.
 
 From there you can allow others to book time in the remaining space. As new invites come to you remember that every time you say yes to something you are voting with your time for that thing to be a priority. If a meeting does not allow you to make progress on one of your priorities and does not contribute to building a relationship, then decline it respectfully.
+
+<center><h3>Navigation</h3></center>
+<hr/>
+```mermaid
+graph LR;
+  A(Intellectual Craftsmanship)-->B(The Information Framework)
+  B-->C(Capture)
+  B-->G(Process)
+  G-->D(Time Systems)
+  G-->E(Task Systems)
+  G-->F(Reference Systems)
+  B-->H(Relate)
+  B-->I(Create)
+
+  style D stroke-width:4px
+
+  click A "{% post_url 2023-01-05-intro %}"
+  click B "{% post_url 2023-01-05-info-framework %}"
+  click C "{% post_url 2023-01-05-capture %}"
+  click E "{% post_url 2023-01-05-tasksystems %}"
+  click F "{% post_url 2023-01-05-referencesystems %}"
+  click H "{% post_url 2023-01-05-relate %}"
+  click I "{% post_url 2023-01-05-create %}"
+```

@@ -6,20 +6,6 @@ categories: [The Information Framework, Capture]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-<center><h3>Navigation</h3></center>
-<hr/>
-```mermaid
-graph LR;
-  A(Intellectual Craftsmanship)-->B(The Information Framework)-->C(Capture)-->D(Taking Notes)
-
-  style D stroke-width:4px
-
-  click A "{% post_url 2023-01-05-intro %}"
-  click B "{% post_url 2023-01-05-info-framework %}"
-  click C "{% post_url 2023-01-05-capture %}"
-```
-<hr/>
-
 As a professional it is inevitable that you spend a non-insignificant part of your day in meetings. Learning to take good notes is the most impactful way to ensure that your time in those meetings is not wasted. It’s easy to write too much, write too little, write down the wrong things or just generally miss the mark.
 
 In many ways notetaking is the purest expression of the skill of capture because you are forced to extract information in real-time. The average conversational speaking pace is 150 words per minute. The average handwriting speed is 25. You cannot capture everything that is being said, especially if you want to participate in the meeting.
@@ -67,4 +53,21 @@ Examples:
 ## Use diagrams
 Diagrams allow you to rapidly express complex ideas. You can quickly express the relationships between ideas and capture more nuance using pictures than you can with text. One of the main benefits of handwriting your notes is how quickly you can capture ideas with drawings, arrows, and symbols.
 
-|[Previous]({% post_url 2023-01-05-email %})|[Next]({% post_url 2023-01-05-process %})|
+<center><h3>Navigation</h3></center>
+<hr/>
+```mermaid
+graph TD;
+  A(Intellectual Craftsmanship)-->B(The Information Framework)
+  B-->C(Capture)
+  C-->D(How to read a book)
+  A-->E(Processing Email Effectivly)
+  A-->F(Taking Notes)
+
+  style F stroke-width:4px
+
+  click A "{% post_url 2023-01-05-intro %}"
+  click B "{% post_url 2023-01-05-info-framework %}"
+  click C "{% post_url 2023-01-05-capture %}"
+  click D "{% post_url 2023-01-05-readabook %}"
+  click E "{% post_url 2023-01-05-email %}"
+```

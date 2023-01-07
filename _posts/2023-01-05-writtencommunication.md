@@ -6,18 +6,6 @@ categories: [Communication]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-<center><h3>Navigation</h3></center>
-<hr/>
-```mermaid
-graph LR;
-  A(Intellectual Craftsmanship)-->B(Communication)-->C(Written Communication)
-
-  style C stroke-width:4px
-
-  click A "{% post_url 2023-01-05-intro %}"
-  click B "{% post_url 2023-01-05-communication %}"
-```
-<hr/>
 Writing in a professional setting can be a massive differentiator in your career. In this document we will discuss three main ways that you can ensure what you write gets read, your arguments convince, and action is driven the way you intend.
 
 We will cover:
@@ -25,7 +13,7 @@ We will cover:
 - Ways to structure your ideas to keep the audience engaged and increase their understanding
 - A method for ensuring your ideas land with impact
 
-## Clarity
+# Clarity
 One of the most important skills to learn is how to communicate your ideas clearly and concisely. We will discuss several techniques for both making your intentions clear and for reducing the burden on the reader. If you want people to read your writing, then you need to put in the effort to make it readable.
 
 ### BLUF
@@ -51,7 +39,7 @@ Here are some strategies for reducing the complexity of your writing:
 - Similarly, avoid long sentences that cover multiple points. Each sentence should be atomic, covering only a single topic.
 - If you can, reduce the number of multi-syllable words. In some scenarios longer more descriptive words are necessary to communicate a point but try to avoid adding them unnecessarily.
 
-## Structure
+# Structure
 Structure is the best way to improve your writing. Improving prose to improve clarity happens only with time and practice but you can easily re-structure your ideas to improve the quality, impact, and clarity of your writing.
 The order in which ideas a presented is the SINGLE MOST IMPORTANT FACTOR in clarity of a piece of writing. When presenting ideas, present a summarized version of them before running through each point.
 The goal is to present ideas with enough clarity that even if someone disagrees with the conclusions, they should not be hung up on understanding the argument or the validity of the arguments being made.
@@ -96,7 +84,7 @@ Once you have written and grouped your ideas you have one additional step to hig
 2.	Headings must be stripped down to their essence. They are there to serve as a visual anchor more than as part of the text.
 3.	When possible, have headings use the same wording as the initial introduction above to make the structure easier to follow.
 
-### Impact
+## Impact
 As we discussed in the section on structure there is a limit to how many ideas someone can focus on simultaneously. To that end I suggest you use three points when making an inductive argument. Anymore, and you risk overwhelming your audience or diluting the quality of your ideas. Any less, and the ideas feel disconnected or unsupported.
 
 There are three main reasons why I recommend you leverage this rule:
@@ -109,4 +97,25 @@ People will remember your argument both because it is rare for someone to have m
 By limiting the number of arguments, you avoid losing your audience. The gauntlet acts as a reducing valve for focusing your ideas and presenting just those with the most impact.
 Your arguments feel polished, and you will come off as confident because it implies that you have done a non-trivial amount of thinking before presenting your ideas.
 
-|[Previous]({% post_url 2023-01-05-difficultconversations %})|[Next]({% post_url 2023-01-05-meetings %})|
+<center><h3>Navigation</h3></center>
+<hr/>
+```mermaid
+graph LR;
+  A(Intellectual Craftsmanship)-->B(Communication)
+  B(Communication)-->C(Communication Styles)
+  B-->D(Difficult Conversations)
+  B-->E(Written Communication)
+  B-->F(Meetings)
+  B-->G(Presentations)
+  B-->H(Working with external teams)
+
+  style E stroke-width:4px
+
+  click A "{% post_url 2023-01-05-intro %}"
+  click B "{% post_url 2023-01-05-communication %}"
+  click C "{% post_url 2023-01-05-communicationstyles %}"
+  click D "{% post_url 2023-01-05-difficultconversations %}"
+  click F "{% post_url 2023-01-05-meetings %}"
+  click G "{% post_url 2023-01-05-presentations %}"
+  click H "{% post_url 2023-01-05-externalteams %}"
+```

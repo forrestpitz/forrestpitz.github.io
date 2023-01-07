@@ -6,19 +6,6 @@ categories: [Communication]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-<center><h3>Navigation</h3></center>
-<hr/>
-```mermaid
-graph LR;
-  A(Intellectual Craftsmanship)-->B(Communication)-->C(Communication Styles)
-
-  style C stroke-width:4px
-
-  click A "{% post_url 2023-01-05-intro %}"
-  click B "{% post_url 2023-01-05-communication %}"
-```
-<hr/>
-
 > "The single biggest problem in communication is the illusion that it has taken place."
 > George Bernard Shaw
 
@@ -178,4 +165,25 @@ Your first reaction might be to push back on the idea that you change your commu
 
 The goal is not to fundamentally change who you are or how you present yourself but rather to find strategic areas where you can relate to others experiences.
 
-|[Previous]({% post_url 2023-01-05-communication %})|[Next]({% post_url 2023-01-05-difficultconversations %})|
+<center><h3>Navigation</h3></center>
+<hr/>
+```mermaid
+graph LR;
+  A(Intellectual Craftsmanship)-->B(Communication)
+  B(Communication)-->C(Communication Styles)
+  B-->D(Difficult Conversations)
+  B-->E(Written Communication)
+  B-->F(Meetings)
+  B-->G(Presentations)
+  B-->H(Working with external teams)
+
+  style C stroke-width:4px
+
+  click A "{% post_url 2023-01-05-intro %}"
+  click B "{% post_url 2023-01-05-communication %}"
+  click D "{% post_url 2023-01-05-difficultconversations %}"
+  click E "{% post_url 2023-01-05-writtencommunication %}"
+  click F "{% post_url 2023-01-05-meetings %}"
+  click G "{% post_url 2023-01-05-presentations %}"
+  click H "{% post_url 2023-01-05-externalteams %}"
+```
