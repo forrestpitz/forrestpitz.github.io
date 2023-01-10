@@ -10,7 +10,7 @@ Most people maintain a calendar and some sort of Todo list but there is a third 
 
 The system I will propose is best described as a thinking environment. While it is formed from written notes its purpose is to allow you to think and connect dispraise concepts. Writing facilitates thinking. Taking a source idea and capturing it in your own words will help you better understand the concepts and you will start to build a tool you can leverage
 
-The method I will outline was first popularized by German academic Niklas Luhmann who famously used his reference system (called a “Zettelkasten” or “slip box”) to allow him to write prolifically on a wide range of subjects. In all he published more than 70 books and more than 400 scholarly articles.
+The method I will outline was first popularized by German academic Niklas Luhmann who famously used his reference system (called a "Zettelkasten" or "slip box") to allow him to write prolifically on a wide range of subjects. In all he published more than 70 books and more than 400 scholarly articles.
 
 # The issue with existing reference systems
 Before we cover the details of the system, I need to dedicate some time to explaining why I suggest taking on the challenge of creating your own slip box. The biggest downside of the system is that the process comes with some startup costs, and I want to make it clear why those costs are warranted.

@@ -44,6 +44,7 @@ Look for the following behavioral traits:
 - No nonsense: They see no point in small talk and will try to cut through red tape
 - Impatient: Results are king so anything getting in the way of them must be cut out ruthlessly
 - Task focused: They will get the job done but will not always consider the impact it will have on others feelings
+- Demanding: Results come before everything else so the high D has a high bar and will expect you to meet it. 
 
 Observable behaviors to look out for:
 - Speaks in a forceful tone
@@ -70,6 +71,8 @@ Look for the following behavioral traits:
 - Optimistic: They will sell you on the dream and it is going to be a positive one
 - Social: They would rather spend an afternoon getting to know someone new then drudging through data
 - Spontaneous: They will often act impulsively.
+- Enthusiastic: The high I brings a ton of excitement to this world. The trick is getting them to direct it at the right things since everything is exciting and nothing is more exciting then getting to interact with other people (even at the expense of the work.)
+- Impulsive: They tend to act fast and not always consider the impact. Their enthusiasm cuts both ways and can lead them to take action before considering the impact
 
 Observable behaviors to look out for:
 - Tells stories
@@ -90,9 +93,11 @@ They have a tendency to avoid confrontation opting instead to give in. That tend
 Look for the following behavioral traits:
 - Helpful: They will go out of their way to find ways to help you out.
 - Reserved: They often do not speak their mind especially if conflict is involved.
-- Predictable: They favor routine and sameness in their lives.
+- Predictable: High S people are dependable and are more likely to follow routines. You know what to expect from them and their actions are generally pre-considered. 
 - Slower paced: They tend to think and plan before taking action.
+- Passive: They generally do not take strong stands and will not challange the status quo.
 - Modest: They tend not to sell themselves but appreciate heartfelt appreciation.
+- Passive: They generally do not like being in the spotlight. They disslike conflict and will generally back off of difficult conversations.
 
 Observable behaviors to look out for:
 - Slower rate of speech
@@ -113,8 +118,10 @@ For the high C 'technically correct' is the best kind of correct. The need for p
 #### Identifying the High C
 Look for the following behavioral traits:
 - Precise: Accuracy reigns supreme.
-- Logical: Arguments must follow proper logical structure. They need to understand the background and the 'why' for actions before taking them
+- Logical: Arguments must follow proper logical structure. They need to understand the background and the 'why' for actions before taking them. They tend towards the hyper-analytical.
+- Systematic: They are a stickler for details and will not leave a single stone unturned in their quest for knowlege and "correctness"
 - Careful: They are methodical in their approach to everything producing detailed plans with large appendixes of data to back up their points.
+- Restrained: They do not take action lightly and tend to only speak up in key moments. They generally do not show strong emotions in large groups saving them for one-on-one conversations with their inner circle. 
 - Reserved: They do not naturally form lots of close relationships and can come off as cold.
 
 Observable behaviors to look out for:
@@ -172,7 +179,7 @@ graph LR;
   A(Intellectual Craftsmanship)-->B(Communication)
   B(Communication)-->C(Communication Styles)
   B-->D(Difficult Conversations)
-  B-->E(Written Communication)
+  B-->E(Effective Communication)
   B-->F(Meetings)
   B-->G(Presentations)
   B-->H(Working with external teams)
@@ -182,7 +189,7 @@ graph LR;
   click A "{% post_url 2023-01-05-intro %}"
   click B "{% post_url 2023-01-05-communication %}"
   click D "{% post_url 2023-01-05-difficultconversations %}"
-  click E "{% post_url 2023-01-05-writtencommunication %}"
+  click E "{% post_url 2023-01-05-effective-communication %}"
   click F "{% post_url 2023-01-05-meetings %}"
   click G "{% post_url 2023-01-05-presentations %}"
   click H "{% post_url 2023-01-05-externalteams %}"

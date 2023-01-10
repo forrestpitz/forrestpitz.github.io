@@ -14,7 +14,7 @@ Relationships are built through regular connection. As a rule of thumb, you shou
 Using the term ‘network’ conjures images of smarmy businessmen in sharkskin suits trying to trick you into a used car but that is not the intention of this guidance. The goal is to build and maintain a large (100+) set of strong relationships. Rather than approaching each relationship as a way to get something out of the other person, focus on building the relationships and the benefits will come naturally.
 
 ## How to build and maintain your network
-So, if growing your network is not just going to “networking” events then what does it consist of? There are five core steps in building and maintaining a strong network:
+So, if growing your network is not just going to "networking" events then what does it consist of? There are five core steps in building and maintaining a strong network:
 1.	Add people indiscriminately
 2.	Connect regularly and bring genuine interest in the other person
 3.	Give

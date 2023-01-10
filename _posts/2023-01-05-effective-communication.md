@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Written Communication
+title: Effective Communication
 date: 2023-01-05
 categories: [Communication]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-Writing in a professional setting can be a massive differentiator in your career. In this document we will discuss three main ways that you can ensure what you write gets read, your arguments convince, and action is driven the way you intend.
+Once you have learned how different people communciate you need to hone your ability to speak and write in clear and expressive ways. In this section we will discuss three main ways that you can ensure what you write gets read, your arguments convince, and action is driven the way you intend.
 
 We will cover:
 - Techniques for communicating with clarity
@@ -17,7 +17,7 @@ We will cover:
 One of the most important skills to learn is how to communicate your ideas clearly and concisely. We will discuss several techniques for both making your intentions clear and for reducing the burden on the reader. If you want people to read your writing, then you need to put in the effort to make it readable.
 
 ### BLUF
-BLUF is an acronym which stands for “Bottom Line Up Front.” It is designed to enforce clarity and speed in writing.
+BLUF is an acronym which stands for "Bottom Line Up Front." It is designed to enforce clarity and speed in writing.
 
 A BLUF consists of either a call to action with a deadline or a single question with a limited set of options to pick from. Your goal is not to tell a story but to make it exceptionally easy for the reader to know what is required of them.
 
@@ -58,7 +58,7 @@ There are three kinds of bloat you need to eliminate:
 3. Needlessly complex phrasing
 
 #### Words that do not add to the text
-This is the most common source of bloat. Writers love to add extra words to their sentances. Take "In my personal opinion we risk overdrafting the account." The word "personal" can be removed without impacting the sentence. Of course your opinion is personal. Moreover the whole phrase "In my personal opinion" can be eliminated without impacting the meaning of the sentence leaving us with the much more clear phrasing of "We risk overdrafting the account."
+This is the most common source of bloat. It is easy to add extra words to their sentances. Take "In my personal opinion we risk overdrafting the account." The word "personal" can be removed without impacting the sentence. Of course your opinion is personal. Moreover the whole phrase "In my personal opinion" can be eliminated without impacting the meaning of the sentence leaving us with the much more clear phrasing of "We risk overdrafting the account."
 
 Similarly look for words that attempt to ephasise extremeness.
 
@@ -89,10 +89,10 @@ For longer form writing like a whitepaper, you will want to include an introduct
 The main point of business writing is to communicate to the reader something they do not know. You cannot begin with unknowns. Instead, I recommend you start from ideas that your intended audience is familiar with and pose a question they have either already considered or would be interested in considering if given the background.
 
 #### Situation
-In the “Situation” you set the stage. Nothing in the situation should be refutable. You want to start from a place of agreement and familiarity. All your ideas must be presented at the level of specificity necessary for your intended audience. In short, you want the depth of information provided to align with the expected level of understanding.
+In the "Situation" you set the stage. Nothing in the situation should be refutable. You want to start from a place of agreement and familiarity. All your ideas must be presented at the level of specificity necessary for your intended audience. In short, you want the depth of information provided to align with the expected level of understanding.
 
 #### Complication
-Once we bring the audience into alignment around the “Situation” we need to make it clear the purpose of the writing to follow. Professional writing is about resolving an issue. This is the problem you intend to provide a solution to in the remainder of the document.
+Once we bring the audience into alignment around the "Situation" we need to make it clear the purpose of the writing to follow. Professional writing is about resolving an issue. This is the problem you intend to provide a solution to in the remainder of the document.
 
 #### Question
 Now that the audience is primed with the problem you provide a question either explicitly or via implication. The remainder of the piece of writing should be providing an answer to that question.
@@ -102,7 +102,7 @@ If the question is "How?", you should provide a set of steps.
 ### Thinking in Trees
 Humans can only keep track of a max of 5-7 ideas simultaneously. If you are attempting to teach someone a complex topic it’s best to look for ways to combine ideas into a set of categories that help people follow your thinking process.
 
-As you guide people through the points start by summarizing what you are going to say and then providing the set of ideas that make up that summary. This is a form of the adage “Tell the audience what you’re going to say, say it; then tell them what you’ve said.”
+As you guide people through the points start by summarizing what you are going to say and then providing the set of ideas that make up that summary. This is a form of the adage "Tell the audience what you’re going to say, say it; then tell them what you’ve said."
 
 By providing a primer of what the reader should expect they should be able to consume the remaining ideas with that context in mind which allows a better understanding of both the ideas and the logic in your argument.
 
@@ -145,7 +145,7 @@ graph LR;
   A(Intellectual Craftsmanship)-->B(Communication)
   B(Communication)-->C(Communication Styles)
   B-->D(Difficult Conversations)
-  B-->E(Written Communication)
+  B-->E(Effective Communication)
   B-->F(Meetings)
   B-->G(Presentations)
   B-->H(Working with external teams)
