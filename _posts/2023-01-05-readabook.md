@@ -54,12 +54,12 @@ In the book world the term DNF (Did Not Finish) is used to denote a time when yo
 <center><h3>Navigation</h3></center>
 <hr/>
 ```mermaid
-graph TD;
+graph LR;
   A(Intellectual Craftsmanship)-->B(The Information Framework)
   B-->C(Capture)
   C-->D(How to read a book)
-  A-->E(Processing Email Effectivly)
-  A-->F(Taking Notes)
+  C-->E(Processing Email Effectivly)
+  C-->F(Taking Notes)
 
   style D stroke-width:4px
 

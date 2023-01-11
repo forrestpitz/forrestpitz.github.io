@@ -56,18 +56,18 @@ Diagrams allow you to rapidly express complex ideas. You can quickly express the
 <center><h3>Navigation</h3></center>
 <hr/>
 ```mermaid
-graph TD;
+graph LR;
   A(Intellectual Craftsmanship)-->B(The Information Framework)
   B-->C(Capture)
   C-->D(How to read a book)
-  A-->E(Processing Email Effectivly)
-  A-->F(Taking Notes)
+  C-->E(Processing Email Effectivly)
+  C-->F(Taking Notes)
 
   style F stroke-width:4px
 
   click A "{% post_url 2023-01-05-intro %}"
   click B "{% post_url 2023-01-05-info-framework %}"
   click C "{% post_url 2023-01-05-capture %}"
-  click D "{% post_url 2023-01-05-readabook %}"
   click E "{% post_url 2023-01-05-email %}"
+  click F "{% post_url 2023-01-05-notetaking %}"
 ```
