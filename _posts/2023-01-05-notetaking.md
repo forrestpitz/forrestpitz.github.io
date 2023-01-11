@@ -68,6 +68,6 @@ graph LR;
   click A "{% post_url 2023-01-05-intro %}"
   click B "{% post_url 2023-01-05-info-framework %}"
   click C "{% post_url 2023-01-05-capture %}"
+  click D "{% post_url 2023-01-05-readabook %}"
   click E "{% post_url 2023-01-05-email %}"
-  click F "{% post_url 2023-01-05-notetaking %}"
 ```
