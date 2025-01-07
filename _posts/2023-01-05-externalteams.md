@@ -6,7 +6,7 @@ categories: [Communication]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-One of the challenges of working in a large company is locating someone who can help with an issue or provide the information or data you need. This section will talk about strategies for locating the write people to help and techniques for reaching out in a way that will get them to respond.
+One of the challenges of working in a large company is locating someone who can help with an issue or provide the information or data you need. This section will talk about strategies for locating the right people to help and techniques for reaching out in a way that will get them to respond.
 
 # Reconnaissance
 The first step in connecting with an external team is to locate the right people to reach out to. You generally have two paths to take. You can attempt to locate someone through your professional network or you can do the digging yourself
