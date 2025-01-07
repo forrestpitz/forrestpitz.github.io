@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Working wtih External Teams
+title: Working with External Teams
 date: 2023-01-05
 categories: [Communication]
 tags: []     # TAG names should always be lowercase
