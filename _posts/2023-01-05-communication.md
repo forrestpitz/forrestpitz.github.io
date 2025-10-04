@@ -10,7 +10,7 @@ Learning to communicate your ideas to others in a way that they can understand i
 
 In this section we will cover:
 
-- How different people naturally communcate and how you can deliver your message in a way that will be understood
+- How different people naturally communicate and how you can deliver your message in a way that will be understood
 - Ways to hone your message for clarity and impact
 - How to communicate in difficult situations when emotions are high
 - Specific forums for communication like:

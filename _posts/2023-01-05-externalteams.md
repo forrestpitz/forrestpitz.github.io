@@ -46,7 +46,7 @@ _It is a reasonable request, but we will need some time to cost the work and det
 This should be read as a "Yes." They have indicated they think the ask makes sense but need to determine the size of the work and prioritize.
 
 _We do not have the resources to support this ask currently._
-They don't dissagree with the ask but it's not a high prority item for them. If the ask is urgent or a major blocker for you, then you must work within your team to determine if it is more appropriate to escalate and push for the work to be fit in or to identify ways our team can fund work on another system.
+They don't disagree with the ask but it's not a high priority item for them. If the ask is urgent or a major blocker for you, then you must work within your team to determine if it is more appropriate to escalate and push for the work to be fit in or to identify ways our team can fund work on another system.
 
 _Something that indicates they do not fully understand the ask_
 If it is a minor misunderstanding, then clarify on the mail thread. If it is a more complex topic, then set up some time to discuss it with them further.

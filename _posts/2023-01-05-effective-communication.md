@@ -6,7 +6,7 @@ categories: [Communication]
 tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
-Once you have learned how different people communciate you need to hone your ability to speak and write in clear and expressive ways. In this section we will discuss three main ways that you can ensure what you write gets read, your arguments convince, and action is driven the way you intend.
+Once you have learned how different people communicate you need to hone your ability to speak and write in clear and expressive ways. In this section we will discuss three main ways that you can ensure what you write gets read, your arguments convince, and action is driven the way you intend.
 
 We will cover:
 - Techniques for communicating with clarity
@@ -25,7 +25,7 @@ You may include additional context after a BLUF, but you must always state first
 
 Including a BLUF in your writing has two main benefits:
 1.	The audience may take up the call to action or answer the question you have posed without requiring any additional context. If they do need the context, then you can still provide it later in the piece of writing. The purpose of professional writing is to drive action, not to be read. If the action was taken and it did not require additional time or effort, then the writing was successful.
-2.	It primes the reader to understand what you are asking for. If you do not set the context up front, the reader will often have to reread once the question or call to action is made clear to understand. It is difficult to evaluate and understand what parts of a piece of writing are relevant until you have a lens with which to view the content. BLUF provides that lens
+2.	It primes the reader to understand what you are asking for. If you do not set the context up front, the reader will often have to reread once the question or call to action is made clear to understand. It is difficult to evaluate and understand what parts of a piece of writing are relevant until you have a lens with which to view the content. BLUF provides that lens.
 
 ### Reducing complexity
 >I would have written a shorter letter, but I did not have the time.
@@ -48,8 +48,8 @@ Here are some strategies for reducing the complexity of your writing:
 - Avoid long sentences that cover multiple points. Each sentence should be atomic, covering only a single topic.
 - If you can, reduce the number of multi-syllable words. In some scenarios longer more descriptive words are necessary to communicate a point but try to avoid adding them unnecessarily.
 
-### Remoing bloat
-All first drafts and most completed writing is bloated with excess. Your job as the author is to identify words that are not adding to the sentance and eliminate them.
+### Removing bloat
+All first drafts and most completed writing is bloated with excess. Your job as the author is to identify words that are not adding to the sentence and eliminate them.
 
 There are three kinds of bloat you need to eliminate:
 
@@ -58,12 +58,12 @@ There are three kinds of bloat you need to eliminate:
 3. Needlessly complex phrasing
 
 #### Words that do not add to the text
-This is the most common source of bloat. It is easy to add extra words to their sentances. Take "In my personal opinion we risk overdrafting the account." The word "personal" can be removed without impacting the sentence. Of course your opinion is personal. Moreover the whole phrase "In my personal opinion" can be eliminated without impacting the meaning of the sentence leaving us with the much more clear phrasing of "We risk overdrafting the account."
+This is the most common source of bloat. It is easy to add extra words to their sentences. Take "In my personal opinion we risk overdrafting the account." The word "personal" can be removed without impacting the sentence. Of course your opinion is personal. Moreover the whole phrase "In my personal opinion" can be eliminated without impacting the meaning of the sentence leaving us with the much more clear phrasing of "We risk overdrafting the account."
 
-Similarly look for words that attempt to ephasise extremeness.
+Similarly look for words that attempt to emphasize extremeness.
 
 #### Filler phrases
-Once you start looking at writing with an eye for bloat you will start to see common filler phrases that bloat sentences and situations where the sentance has been streatched.
+Once you start looking at writing with an eye for bloat you will start to see common filler phrases that bloat sentences and situations where the sentence has been stretched.
 
 Take "This isn't to say that every rectangle is a square." While not incorrect how much clearer would it be if it became "Not every rectangle is a square."?
 
@@ -74,10 +74,10 @@ Look out for long words that convey the same idea as shorter ones. Substitute "i
 
 Not every long word requires removal. In some cases there is a longer word that clearly describes a concept .
 
-Take "penultimate". Yes you could say "the second to last" in it's place but if you belive your audience will know the word it is likely the clearest way to get the idea accross.
+Take "penultimate". Yes you could say "the second to last" in it's place but if you believe your audience will know the word it is likely the clearest way to get the idea across.
 
 # Structure
-Structure is the best way to improve your writing. Improving prose to improve clarity happens only with time and practice but you can easily re-structur your ideas to improve the quality, impact, and clarity of your writing.
+Structure is the best way to improve your writing. Improving prose to improve clarity happens only with time and practice but you can easily re-structure your ideas to improve the quality, impact, and clarity of your writing.
 
 The order in which ideas a presented is the SINGLE MOST IMPORTANT FACTOR in clarity of a piece of writing. When presenting ideas, present a summarized version of them before running through each point.
 

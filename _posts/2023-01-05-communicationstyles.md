@@ -95,9 +95,9 @@ Look for the following behavioral traits:
 - Reserved: They often do not speak their mind especially if conflict is involved.
 - Predictable: High S people are dependable and are more likely to follow routines. You know what to expect from them and their actions are generally pre-considered. 
 - Slower paced: They tend to think and plan before taking action.
-- Passive: They generally do not take strong stands and will not challange the status quo.
+- Passive: They generally do not take strong stands and will not challenge the status quo.
 - Modest: They tend not to sell themselves but appreciate heartfelt appreciation.
-- Passive: They generally do not like being in the spotlight. They disslike conflict and will generally back off of difficult conversations.
+- Passive: They generally do not like being in the spotlight. They dislike conflict and will generally back off of difficult conversations.
 
 Observable behaviors to look out for:
 - Slower rate of speech
@@ -119,7 +119,7 @@ For the high C 'technically correct' is the best kind of correct. The need for p
 Look for the following behavioral traits:
 - Precise: Accuracy reigns supreme.
 - Logical: Arguments must follow proper logical structure. They need to understand the background and the 'why' for actions before taking them. They tend towards the hyper-analytical.
-- Systematic: They are a stickler for details and will not leave a single stone unturned in their quest for knowlege and "correctness"
+- Systematic: They are a stickler for details and will not leave a single stone unturned in their quest for knowledge and "correctness"
 - Careful: They are methodical in their approach to everything producing detailed plans with large appendixes of data to back up their points.
 - Restrained: They do not take action lightly and tend to only speak up in key moments. They generally do not show strong emotions in large groups saving them for one-on-one conversations with their inner circle. 
 - Reserved: They do not naturally form lots of close relationships and can come off as cold.

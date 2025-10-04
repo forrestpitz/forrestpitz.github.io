@@ -12,7 +12,7 @@ Your success individually will for a time early in your career rely heavily on y
 <hr/>
 ```mermaid
 graph LR;
-  A(Intellectual Craftsmanship)-->B(The Informaton Framework)
+  A(Intellectual Craftsmanship)-->B(The Information Framework)
   A-->C(Communication)
   A-->D(Professional Behavior)
   D-->E(Relationships)

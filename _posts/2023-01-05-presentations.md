@@ -78,11 +78,11 @@ What follows is an outline to describe the general structure of a good presentat
 ### Introduction
 > Note: the section on written communication covers writing a good introduction in more detail
 - Situation: Get the audience into a shared understanding with you. Start from what they know and try not to bring up any point that could be contended with.
-- Complication: Bring up the reason you are giving the presentation. Why change from the status quo? What new oportunities are there? What risks?
-- Question: Sometimes the question is just implied but make sure your audience enteres the body of your presentation with a clear question on their minds that you will then be able to provide an answer for.
+- Complication: Bring up the reason you are giving the presentation. Why change from the status quo? What new opportunities are there? What risks?
+- Question: Sometimes the question is just implied but make sure your audience enters the body of your presentation with a clear question on their minds that you will then be able to provide an answer for.
 
 ### Body
-- This is the part of the speach where you tell the story. This is your oprotunity to celebrate something, convince others of something new, or make a proposal.
+- This is the part of the speech where you tell the story. This is your opportunity to celebrate something, convince others of something new, or make a proposal.
 
 ### Closing Remarks
 - Call to action: Make sure to leave your audience on your most salient point. You will have the audiences best attention at the beginning and the end of your speech so make sure to leverage those times for your essential message.

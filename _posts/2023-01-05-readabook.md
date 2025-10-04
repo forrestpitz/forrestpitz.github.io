@@ -49,7 +49,7 @@ Before reading a chapter, pose a set of questions that come to mind based on you
 Highlight passages that stand out to you. I recommend using two colors, one to represent ideas you agree with and the other to capture things you disagree with that need additional analysis or thought.
 
 ## When to Stop Reading
-In the book world the term DNF (Did Not Finish) is used to denote a time when you did not complete a book. In school, you often learn to read to the end of a book even when it is no longer providing value. You need to re-train yourself to be ok with a DNF. You are not being graded on completion and it is not worth applying the above rigor to squeeze water out of a stone. When you reach a point weather during your initial survey or once activly reading that a book no longer is providing you value the best thing you can do is put it down and move on to another.
+In the book world the term DNF (Did Not Finish) is used to denote a time when you did not complete a book. In school, you often learn to read to the end of a book even when it is no longer providing value. You need to re-train yourself to be ok with a DNF. You are not being graded on completion and it is not worth applying the above rigor to squeeze water out of a stone. When you reach a point weather during your initial survey or once actively reading that a book no longer is providing you value the best thing you can do is put it down and move on to another.
 
 <center><h3>Navigation</h3></center>
 <hr/>
@@ -58,7 +58,7 @@ graph LR;
   A(Intellectual Craftsmanship)-->B(The Information Framework)
   B-->C(Capture)
   C-->D(How to read a book)
-  C-->E(Processing Email Effectivly)
+  C-->E(Processing Email Effectively)
   C-->F(Taking Notes)
 
   style D stroke-width:4px
