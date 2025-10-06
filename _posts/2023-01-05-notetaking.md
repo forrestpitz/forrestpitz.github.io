@@ -60,7 +60,7 @@ graph LR;
   A(Intellectual Craftsmanship)-->B(The Information Framework)
   B-->C(Capture)
   C-->D(How to read a book)
-  C-->E(Processing Email Effectivly)
+  C-->E(Processing Email Effectively)
   C-->F(Taking Notes)
 
   style F stroke-width:4px

@@ -7,7 +7,7 @@ tags: []     # TAG names should always be lowercase
 mermaid: true
 ---
 
-TODO: Edit content and instert here
+TODO: Edit content and insert here
 
 <center><h3>Navigation</h3></center>
 <hr/>

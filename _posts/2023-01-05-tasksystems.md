@@ -25,7 +25,7 @@ I recommend grouping tasks into projects. If you have made your tasks sufficient
 ## Deciding what to work on
 For determining what next action is appropriate I recommend using the Eisenhower Matrix. Adapted by Stephen Covey in his best-selling book The 7 Habits of Highly Effective People, the Eisenhower Matrix is an approach for determining next action.
 
-The matrix has you assess each task for its urgence and its importance to determine what actions should be taken. The goal is to reduce the amount of time you spend in reactive mode. Some reactivity is unavoidable but if you are always in the lower left-hand quadrant then you will have to start saying no to more things to ensure your essential work gets completed.
+The matrix has you assess each task for its urgency and its importance to determine what actions should be taken. The goal is to reduce the amount of time you spend in reactive mode. Some reactivity is unavoidable but if you are always in the lower left-hand quadrant then you will have to start saying no to more things to ensure your essential work gets completed.
 
 You will often find other people come to you with things that are urgent but are of low importance (at least relevant to your core priorities.) While there is value in bailing people out, remember to assess the importance before assuming that urgency should drive action.
 
